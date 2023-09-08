@@ -1,0 +1,9 @@
+body {
+    background-color: FEFCF3;
+}
+
+#navbar {
+    background-color: DBA39A;
+    display: inline-block;
+    position: relative;
+}
