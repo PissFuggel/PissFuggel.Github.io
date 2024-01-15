@@ -1,0 +1,21 @@
+<diagram program="umletino" version="15.1"><zoom_level>10</zoom_level><element><id>UMLClass</id><coordinates><x>70</x><y>200</y><w>100</w><h>200</h></coordinates><panel_attributes>beans.py Main
+-
+Doglist [Dog]
+looping:
+-
+Main():program</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>350</x><y>200</y><w>100</w><h>220</h></coordinates><panel_attributes>dog
+-
+Ras:str
+Storlek:str
+Färg:int
+-
+_init_contrsuctor
+setRas(str)
+setRas():str
+getStorlek():str
+getFärg():int
+
+
+
+
+</panel_attributes><additional_attributes></additional_attributes></element><element><id>Relation</id><coordinates><x>180</x><y>200</y><w>180</w><h>30</h></coordinates><panel_attributes>lt=&lt;&lt;-</panel_attributes><additional_attributes>160;10;10;10</additional_attributes></element></diagram>
